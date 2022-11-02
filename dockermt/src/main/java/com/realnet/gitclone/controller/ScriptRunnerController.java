@@ -103,7 +103,7 @@ public class ScriptRunnerController {
 		
 		ProcessBuilder pb = new 
 //		ProcessBuilder("C://Users//Karam//git//surepipe-runner//src//main//resources//ScriptFiles//multi_output.bat");
-		ProcessBuilder(projectpath +"//src//main//resources//ScriptFiles//multi_output.bat");
+		ProcessBuilder(projectpath +"//src//main//resources//ScriptFiles//copy.sh");
 //		ProcessBuilder(projectpath+"//" +path);
 		
 
